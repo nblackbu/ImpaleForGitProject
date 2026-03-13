@@ -6,8 +6,4 @@ public class Main {
     public void sum() {
         System.out.println("Возвращаю сумму");
     }
-
-    public void minus () {
-        System.out.println("Hello from task-1 branch");
-    }
 }
